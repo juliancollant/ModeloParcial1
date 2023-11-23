@@ -1,0 +1,3 @@
+¬í sr java.util.ArrayListxÒ™Ça I sizexp   w   sr Pacienteê2Y¥N I 
+tipoSangreL historialMedicot Ljava/util/List;L numeroTelefonot Ljava/lang/String;xp   sq ~      w    xt 
+3624752222sq ~    sq ~      w    xt 333x
